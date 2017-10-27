@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+	text-align: center;
+	font-family: Arial;
+	font-size: 18px;
+	display: block;
+	margin: 8px;
+}
+
+header {
+	padddin: 20px;
+	margin-bottom: 20px
+	color: #333;
+	background: #ccc;
+	box-sizing: border-box;
+	text-align: center;
+}
